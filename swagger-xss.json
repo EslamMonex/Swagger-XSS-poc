@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/EslamMonex/Swagger-XSS-poc/main/swagger-xss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/EslamMonex/Swagger-XSS-poc/main/swagger-xss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
